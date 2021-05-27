@@ -13,7 +13,7 @@ public class TaskDTO {
 		this.title = title;
 		this.body = body;
 		this.expirationDate = expirationDate;
-		this.nome = "Pepe";
+		this.nome = "Ian";
 		
 	}
 
