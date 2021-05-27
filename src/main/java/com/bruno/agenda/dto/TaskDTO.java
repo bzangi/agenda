@@ -13,6 +13,7 @@ public class TaskDTO {
 		this.title = title;
 		this.body = body;
 		this.expirationDate = expirationDate;
+		this.nome = "Bruno";
 		
 	}
 
@@ -21,6 +22,8 @@ public class TaskDTO {
 	private String body;
 
 	private LocalDate expirationDate;
+
+	private String nome;
 
 	public String getTitle() {
 		return title;
